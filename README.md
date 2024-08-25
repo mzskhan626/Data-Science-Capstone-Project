@@ -1,6 +1,6 @@
 # Data-Science-Capstone-Project
 
-##### This capstone project explores key domains of data science, focusing on acquiring, cleaning, analyzing, and visualizing datasets to extract valuable insights. Leveraging Python and various industry-standard data science tools, the project applies advanced techniques to support data-driven decision-making.
+#### This capstone project explores key domains of data science, focusing on acquiring, cleaning, analyzing, and visualizing datasets to extract valuable insights. Leveraging Python and various industry-standard data science tools, the project applies advanced techniques to support data-driven decision-making.
 
 ## Key Contributions:
 - Conducted comprehensive data cleaning and preparation to ensure high-quality data for analysis.
